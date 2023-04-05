@@ -1,0 +1,7 @@
+{
+  "name": "com.awventxr.dplannertool",
+  "displayName": "3DPlannerTool",
+  "version": "0.1.1",
+  "unity": "2020.3",
+  "description": "The 3D planner tool package\n\nThis tool will be usefull to upload your AR content to cloud."
+}
